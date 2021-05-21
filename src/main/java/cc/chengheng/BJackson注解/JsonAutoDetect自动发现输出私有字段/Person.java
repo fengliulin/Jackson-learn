@@ -1,4 +1,4 @@
-package cc.chengheng.BJackson注解.JsonAutoDetect;
+package cc.chengheng.BJackson注解.JsonAutoDetect自动发现输出私有字段;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
