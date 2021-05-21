@@ -1,0 +1,4 @@
+DeserializationFeature 反序列化配置(反序列化就是json转java对象)
+SerializationFeature 序列化配置
+
+在这两个类
