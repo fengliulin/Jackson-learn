@@ -1,0 +1,19 @@
+{
+  "firstname": "feng",
+  "lastname": "liulin",
+  "address": {
+    "state": "河南",
+    "city": "驻马店",
+    "street": "驿城区"
+  },
+  "phones": [
+    {
+      "code": "0411-12345678",
+      "number": null
+    },
+    {
+      "code": "86",
+      "number": "18109360113"
+    }
+  ]
+}
